@@ -1,0 +1,21 @@
+{
+  "token": "token here",
+  "status_sequence": ["online", "idle", "dnd"],
+  "clear_enabled": false,
+  "clear_interval": 1,
+  "speed_rotator": 15,
+  "use_status_sequence": true,
+  "emoji_rotation_mode": "with_text",
+  "hypesquad_sequence": [""],
+  "hypesquad_mapping": {
+    "bravery": 1,
+    "brilliance": 2,
+    "balance": 3
+  },
+  "rotate_hypesquad": false,
+  "hypesquad_rotation_interval": 15,
+  "rotate_aboutme": false,
+  "aboutme_rotation_interval": 15,
+  "show_system_usage": true,  
+  "system_usage_as_status": true     
+}
